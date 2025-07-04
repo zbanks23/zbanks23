@@ -23,7 +23,7 @@ I'm currently a rising Junior majoring Computer Science at the University of Flo
 <!-- Icons from https://github.com/tandpfun/skill-icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,c++,git" />
   </a>
 </p>
 
