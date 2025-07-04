@@ -46,7 +46,7 @@ I'm currently a rising Junior majoring Computer Science at the University of Flo
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/zhicheng-li2027/)">
+  <a href="https://www.linkedin.com/in/zhicheng-li2027/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="[YOUR_WEBSITE_URL](https://zbanks23.github.io/Portfolio/)">
