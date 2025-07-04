@@ -23,7 +23,7 @@ I'm currently a rising Junior majoring Computer Science at the University of Flo
 <!-- Icons from https://github.com/tandpfun/skill-icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,c++,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nodejs,nextjs,py,cpp,flask,supabase,git,vscode" />
   </a>
 </p>
 
@@ -33,11 +33,11 @@ I'm currently a rising Junior majoring Computer Science at the University of Flo
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zbanks23&show_icons=true&theme=radical" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbanks23&layout=compact&theme=radical" />
   </a>
 </p>
 
