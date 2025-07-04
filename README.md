@@ -2,20 +2,19 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-  <h1>Hi there, I'm [Your Name]! 👋</h1>
+  <h1>Hi there, I'm Zhicheng! 👋</h1>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a [Your Title] based in [Your Location]. I'm passionate about [Your Passion] and love working on projects that [Describe Your Projects].
+I'm currently a rising Junior majoring Computer Science at the University of Florida. I'm passionate about Software Developement and Machine Learning and love working on projects that can solve existing problems.
 
-- 🔭 I’m currently working on **[Your Project]**.
-- 🌱 I’m currently learning **[A Technology or Skill]**.
-- 💬 Ask me about **[Topics You Know Well]**.
-- 📫 How to reach me: **[Your Email or Social Media]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔭 I’m currently working on **MyCFO**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 💬 Ask me about **Anything**.
+- 📫 How to reach me: **zli5@ufl.edu**
+- ⚡ Fun fact: **I can do a Muscle Up!**
 
 ---
 
