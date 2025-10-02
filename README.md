@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 I'm currently a Junior majoring Computer Science at the University of Florida. I'm passionate about Software Developement and Machine Learning and love working on projects that can solve existing problems.
 
-- 🔭 I’m currently working on **MyCFO**.
-- 🌱 I’m currently learning **Machine Learning**.
+- 🔭 I’m currently working on **MyCFO** and my **Portfolio**.
+- 🌱 I’m currently learning **AWS**.
 - 💬 Ask me about **Anything**.
 - 📫 How to reach me: **zli5@ufl.edu**
 - ⚡ Fun fact: **I can do a Muscle Up!**
