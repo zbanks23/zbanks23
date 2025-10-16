@@ -13,7 +13,7 @@ I'm currently a Junior majoring Computer Science at the University of Florida. I
 - 🔭 I’m currently working on **MyCFO** and my **Portfolio**.
 - 🌱 I’m currently learning **AWS**.
 - 💬 Ask me about **Anything**.
-- 📫 How to reach me: **zli5@ufl.edu**
+- 📫 How to reach me: **zhicheng19edu@gmail.com**
 - ⚡ Fun fact: **I can do a Muscle Up!**
 
 ---
